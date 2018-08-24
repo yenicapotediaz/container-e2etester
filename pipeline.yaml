@@ -1,0 +1,5 @@
+type: chart
+rootfs:
+  - image: samsung_cnct/e2etester
+    context: e2etester
+    dockerContext: build/e2etester
